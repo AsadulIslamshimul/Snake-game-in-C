@@ -1,10 +1,11 @@
+# Snake game in C by Asadul Islam Shimul
+# Enjoy
+
 #include<stdio.h>
 #include<math.h>
 #include<string.h>
 #include<stdlib.h>
 #include<conio.h>
-
-
 
     int i,j, length=20, height=40;
     int x,y, food_x,food_y,game_over=0,score;
@@ -339,4 +340,5 @@ printf("\n");
 
 return 0;
 }
+
 
